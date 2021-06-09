@@ -37,11 +37,8 @@
 ### &nbsp;Breif Timeline
 
 <img alt="Johnny1" src="images/Johnny1.png" align="left" width='30'/><h4>Started out Coding for a business class in college. SQL, .NET, and some basic HMTL/CSS</h4>
-<br/>
-<img alt="Johnny2" src="images/Johnny2.png" align="left" width='30'/><h4>Finished college with an accounting/finance degree but found out it wasn't for me</h4>
-<br/>
+<img alt="Johnny2" src="images/johnny2.png" align="left" width='30'/><h4>Finished college with an accounting/finance degree but found out it wasn't for me</h4>
 <img alt="Johnny4" src="images/Johnny4.png" align="left" width='25'/><h4>Decided to pursure a career in web development</h4>
-<br/>
 <img alt="Johnny3" src="images/Johnny3.png" align="left" width='25'/><h4>Currently Working on some client projects</h4>
 
 
