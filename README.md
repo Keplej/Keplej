@@ -34,7 +34,7 @@
 ![Adobe Premiere Pro](https://camo.githubusercontent.com/8f4e2d0217299fda1e431bf47083f862953838c803ef064e2351c8a24ff59a09/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41646f62652b5072656d696572652b50726f26636f6c6f723d393939394646266c6f676f3d41646f62652b5072656d696572652b50726f266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
 
 
-### &nbsp;Breif Timeline
+### &nbsp;Brief Timeline
 
 <img alt="Johnny1" src="images/Johnny1.png" align="left" width='30'/><h4>Started out Coding for a business class in college. SQL, .NET, and some basic HMTL/CSS</h4>
 <img alt="Johnny2" src="images/johnny2.png" align="left" width='30'/><h4>Finished college with an accounting/finance degree but found out it wasn't for me</h4>
