@@ -12,6 +12,8 @@
 &nbsp;Former Mankato State University Student in Accounting and Finance.\
 &nbsp;
 
+<img alt="original" src="images/computer.gif" align="right"/>
+
 ### Technologies, Frameworks, and Libaries Learned/Learning
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -31,7 +33,6 @@
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 ![Adobe Premiere Pro](https://camo.githubusercontent.com/8f4e2d0217299fda1e431bf47083f862953838c803ef064e2351c8a24ff59a09/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41646f62652b5072656d696572652b50726f26636f6c6f723d393939394646266c6f676f3d41646f62652b5072656d696572652b50726f266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
 
-<img src="images/computer.gif"/>
 
 ### &nbsp;Connect with Me
 <p align="center">
