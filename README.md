@@ -45,4 +45,4 @@
 ### &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/johnny-keple/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Johnny.Keple@gmail.com"><img src="https://img.shields.io/badge/-Johnny.Keple-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:Johnny.Keple@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
