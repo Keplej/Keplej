@@ -12,7 +12,7 @@
 &nbsp;Former Mankato State University Student in Accounting and Finance.\
 &nbsp;
 
-<img alt="original" src="images/computer.gif" align="right"/>
+<img alt="original" src="images/computer.gif" align="right" width="300" height="185"/>
 
 ### Technologies, Frameworks, and Libaries Learned/Learning
 
