@@ -1,4 +1,3 @@
-![Johnny Keples Banner](images/original.gif)
 
 <h2>Welcome to My Github</h2>
 
